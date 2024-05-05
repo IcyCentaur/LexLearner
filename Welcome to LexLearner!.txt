@@ -1,0 +1,20 @@
+Welcome to LexLearner!
+
+This is a fullstack tool that is designed to help to help users learn the alphabets of several different languages phonetically. 
+Users can first see the pronunciation of all the alphabets and then test themselves on a set of 10 randomly selected letters from the selected language. 
+
+Flow of the website: 
+1. On initial visit, the user lands on the home page where they have to select a language. 
+2. Then they are redirected to a page where they can study all the alphabets of the selected language along with their phonetic pronunciations. 
+3. Once the user feels comfortable, they can test themselves using the "Take Quiz" option. 
+4. They will now be redirected to a quiz where they will have to write the phonetic pronunciation of 10 alphabets.
+5. Here, the alphabets will also be read aloud by the system to help the users.  
+6. If they answer them correctly, a modal window pops up showing their score. 
+7. The user can now either re-take the test with 10 different alphabets or go back to the landing page.
+
+Major technologies used: 
+1. React JS
+2. Express JS
+3. MongoDB
+4. Material UI
+5. Lodash Library
